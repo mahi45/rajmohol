@@ -47,6 +47,7 @@ class Menu extends Component {
 
     componentDidMount() {
         this.props.fetchDishes();
+        this.props.fetchComments();
     }
 
     render() {
