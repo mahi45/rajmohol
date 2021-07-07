@@ -2,3 +2,15 @@
   text-align: center;
 }
 
+.row-content{
+  padding: 20px 0 90px 0px;
+}
+.footer{
+  background-color: #343a40;
+  color: white;
+  margin: 0 auto;
+  padding: 5px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
